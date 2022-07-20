@@ -1,0 +1,7 @@
+
+##### Core packages
+matplotlib
+numpy
+pandas
+sklearn
+scipy
